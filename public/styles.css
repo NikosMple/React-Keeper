@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
   padding: 0;
   margin: 0;
@@ -15,7 +15,7 @@ body {
   color: #eaeaea;
 }
 
-/* Header */
+
 header {
   background-color: #1f1f1f;
   margin: auto -16px;
@@ -31,7 +31,7 @@ header h1 {
   font-size: 2.4em;
 }
 
-/* Footer */
+
 footer {
   position: absolute;
   text-align: center;
@@ -45,7 +45,7 @@ footer p {
   font-size: 0.9em;
 }
 
-/* Notes Section */
+
 .note {
   background: #2c2c2c;
   border-radius: 10px;
@@ -94,7 +94,7 @@ footer p {
   color: #2c2c2c;
 }
 
-/* Create Note Form */
+
 form.create-note {
   position: relative;
   width: 500px;
@@ -140,7 +140,7 @@ form.create-note button:hover {
   transform: scale(1.1);
 }
 
-/* Responsive Design */
+
 @media (max-width: 600px) {
   form.create-note {
     width: 100%;
