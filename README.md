@@ -1,5 +1,6 @@
 
 # Keeper - Notes App
+Live Preview : https://github.com/NikosMple/react-keeper
 
 **Keeper** is a simple note-taking app where you can create and manage notes with a title and description. You can easily delete any notes you no longer need.
 
@@ -41,7 +42,7 @@ npm start
 ```
 
 The app will be available at [http://localhost:3000](http://localhost:3000) in your browser.
-Live Preview : https://github.com/NikosMple/react-keeper
+
 
 ---
 
